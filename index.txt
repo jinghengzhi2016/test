@@ -2,4 +2,8 @@ hello
 hell world
 你好！
 扯犊子
+<<<<<<< HEAD
 my love
+=======
+继续write code
+>>>>>>> 9e13db359b57187770ab1c0de176aba964bc272d
